@@ -11,8 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-      val sac = Array(5, { i -> (i*i).toString()})
-          Log.d("kotlintest", i.toString())
+      
     }
 
 }
